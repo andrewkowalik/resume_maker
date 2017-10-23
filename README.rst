@@ -6,5 +6,6 @@ TODO
 
 - Define YAML
 - Can parse YAML into dictionary
+- YAML Validation?
 - Can export YAML into Jinja2 template
 - Can build PDF from LaTeX file

@@ -1,0 +1,48 @@
+first_name: Foo
+last_name: Bar
+
+email: foo@bar.com
+phone: (999) 111-2222
+
+address:
+    general: San Francisco Bay Area
+#    street:
+#    city:
+#    state:
+#    zip-code:
+
+education:
+    degree: Bachelor of Science in Badass
+    school_name: University of Southern California
+    major: Finance
+    gpa: 4.0
+
+experience:
+    - company_name: Foobar Inc.
+      title: Lead Winner
+      start_date: 2015
+      end_date: 2017
+      tech_stack:
+          - Python
+          - MySQL
+          - Perl
+      accomplishments:
+          - Rocked hard on sales
+          - Kicked ass
+          - Took names
+          - Sold my soul
+    - company_name: Foobar Inc.
+      title: Lead Winner
+      start_date: 2013
+      end_date: 2015
+      tech_stack:
+          - Ruby
+          - Postgres
+          - Perl
+      accomplishments:
+          - Rocked hard on sales
+          - Kicked ass
+          - Took names
+          - Sold my soul
+
+
