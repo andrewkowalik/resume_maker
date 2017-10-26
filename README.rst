@@ -1,6 +1,13 @@
 Resume Maker aims to create an easy CLI for generating resumes from a
 configurable YAML file into a Jinja2 Templated LaTeX.
 
+
+Requirements
+============
+
+- basictex
+    `brew cask install basictex`
+
 TODO
 ====
 
